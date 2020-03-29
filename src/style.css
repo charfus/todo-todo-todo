@@ -1,0 +1,33 @@
+#title {
+  text-align: center;
+}
+
+#form {
+  text-align: center;
+}
+
+li {
+  position: relative;
+  left: 30%;
+  width: 280px;
+  list-style-type: none;
+  padding: 5px;
+  font-size: 14px;
+  margin: 5px;
+  background-color: #ffd8a8;
+}
+
+.deleteBtn {
+  position: relative;
+  right: ;
+}
+input {
+  width: 300px;
+  height: 30px;
+  border: none;
+  background-color: #f1f3f5;
+}
+button {
+  border: none;
+  background-color: transparent;
+}
